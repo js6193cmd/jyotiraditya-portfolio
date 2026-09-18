@@ -1,0 +1,12 @@
+{
+  "name": "Jyotiraditya Singh — Engineering Portfolio",
+  "short_name": "JS Portfolio",
+  "description": "Software, data and Generative AI engineering portfolio.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07080b",
+  "theme_color": "#07080b",
+  "icons": [
+    {"src":"/favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}
+  ]
+}
